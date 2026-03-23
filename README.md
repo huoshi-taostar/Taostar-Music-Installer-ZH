@@ -2,6 +2,7 @@
 Taostar Music Installer - 中文版 - 治愈音乐可视化风景壁纸本地播放器
 ---
 
+---
 # Taostar Music CN
 
 Taostar Music Installer - 中文版 - Electron 音乐软件
@@ -16,7 +17,7 @@ Taostar Music Installer - 中文版 - Electron 音乐软件
 [https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/](https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/)
 
 ---
-
+![img7](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-ZH/refs/heads/main/demo/img6.png)
 ---
 
 ## 📖 项目简介
