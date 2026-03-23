@@ -49,7 +49,7 @@ Taostar Music Installer - 中文版 - Electron 音乐软件
 **运行中的桃星音乐 - 按下Q键可隐藏软件方便使用其它软件或玩游戏**
 
 ![img2](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-ZH/refs/heads/main/demo/img2.png)
-**沉浸式界面 可上传 歌词和音乐**
+**沉浸式界面 可上传 歌词和音乐 - 歌词文件 LRC 或 TXT**
 
 ![img3](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-ZH/refs/heads/main/demo/img3.png)
 **切换为 动态壁纸 也可上传本地视频作为动态壁纸**
