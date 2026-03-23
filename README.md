@@ -17,7 +17,7 @@ Taostar Music Installer - 中文版 - Electron 音乐软件
 
 ---
 
-https://github.com/huoshi-taostar/huoshi-taostar.github.io/releases/download/v0/3.23.mp4
+<video src="https://github.com/huoshi-taostar/huoshi-taostar.github.io/releases/download/v0/3.23.mp4" controls width="100%"></video>
 
 ---
 
