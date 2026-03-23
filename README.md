@@ -17,6 +17,10 @@ Taostar Music Installer - 中文版 - Electron 音乐软件
 
 ---
 
+https://github.com/huoshi-taostar/huoshi-taostar.github.io/releases/download/v0/3.23.mp4
+
+---
+
 ## 📖 项目简介
 
 **桃星音乐 (Taostar Music)** 是一款以**放松、治愈、沉浸体验**为核心设计的音乐播放器。
