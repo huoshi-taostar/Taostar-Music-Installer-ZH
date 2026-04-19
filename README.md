@@ -14,7 +14,7 @@ Taostar Music Installer - 中文版 - Electron 音乐软件
 **Taostar Music - Relaxing Music Player with Anime Wallpapers, Live Backgrounds & Sleep Sounds (Windows 10/11)**
 
 官方网站：
-[https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/](https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/)
+[https://huoshi-taostar.github.io/taostar-music/taostar-music-web/](https://huoshi-taostar.github.io/taostar-music/taostar-music-web/)
 
 ---
 ![img7](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-ZH/refs/heads/main/demo/img6.png)
